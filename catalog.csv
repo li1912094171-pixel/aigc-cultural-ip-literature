@@ -1,0 +1,63 @@
+编号,中文题名,原题录,分类,标签,状态,文件,链接,引用建议
+10,AIGC驱动的遗产真实性方法论框架,An AIGC-Driven Methodological Framework for Authenticity ... - MDPI,文化遗产AIGC重建,#方法论框架 #真实性 #Buildings,已下载,10,https://www.mdpi.com/2075-5309/16/19/3881,MDPI下载中
+11,基于AIGC的楚漆器纹样在文创设计中的应用,基于AIGC 的楚漆器纹样在文创设计中的应用研究 - Art and Technology,文创设计应用,#楚漆器 #纹样 #文创设计,已下载,11,https://api.artdesignp.com/uploads/file/asp/20251205140522042374095.pdf,中文论文，已下载
+12,Beyond Photorealism（同C1）,Beyond Photorealism: An AIGC-Powered Framework for Stylized,严肃游戏与游戏化,#AIGC #游戏化 #开平碉楼,已下载,12,https://www.mdpi.com/2075-5309/15/20/3782,与C1同一论文，MDPI下载中
+13,倦勤斋清宫室内AIGC重建批判性框架,the case of Juanqinzhai - Clear Sky Science,文化遗产AIGC重建,#倦勤斋 #清宫内檐 #批判性框架 #npj,已下载,13,https://www.clearskyscience.com/en/10.1038/s40494-026-02390-1/,核心锚点，已下载nature开放版
+14,KoDi：韩英双语文化扩散模型,KoDi: A Korean Diffusion Model for Bilingual Text-to-Image,文化理解评测基准,#KoDi #韩文扩散模型 #双语 #文化,未获取,,https://ieeexplore.ieee.org/iel8/6287639/10820123/11250929.pdf,IEEE Access确认存在，付费墙未获取
+15,AIGC开发游戏素材之序列帧动画原创（CSDN博客）,AIGC开发游戏素材之序列帧动画原创 - CSDN博客,非学术来源_不建议引用,#CSDN #博客 #序列帧动画,未获取,,https://blog.csdn.net/ayusong870/article/details/156134077,非学术来源，不建议引用
+16,可扩展矢量游戏美术资产生成流程,A Process for Generating Scalable Vector Game Art Assets Using,游戏资产AIGC生成,#矢量 #游戏美术 #SBGames,未获取,,https://sol.sbc.org.br/index.php/sbgames/article/download/45382/45143/,开放版错配，已移除；原文SBGames链接可手动下
+17,生成式AI（AIGC）技术应用研究,Application of Generative Artificial Intelligence AIGC Technology,文创设计应用,#知识经济 #AIGC应用,已下载,17,https://ideas.repec.org/a/spr/jknowl/v16y2025i1d10.1007_s13132-024-02152-z.htm,Springer开放版，已下载
+18,韩国表演艺术国际化（题录错配）,"Journal of Arts and Cultural Studies, KOREA INSTITUTE FOR",用户研究与社会影响,#韩国 #表演艺术 #国际化,未获取,,https://accesson.kr/acs/v.4/1/2025,原题录为韩国艺术文化研究期刊页，非论文
+19,智能生成与交互展示方法研究,Research on intelligent generation and interactive display method of,文化遗产AIGC重建,#智能生成 #交互展示,已下载,19,https://www.inderscienceonline.com/doi/pdf/10.1504/IJICT.2026.153807,Inderscience开放版，已下载
+20,卫常青npj论文报道（湖北文旅厅新闻）,卫常青在npj Heritage Science发表基于批判性生成框架的清宫室内,非学术来源_不建议引用,#新闻 #湖北文旅,未获取,,https://www.hagis.cn/learning/show-32150.aspx,非学术来源
+21,河南省科学院地理研究所官网首页,河南省科学院地理研究所,非学术来源_不建议引用,#官网 #地理所,未获取,,https://www.hagis.cn/,非学术来源
+22,卫常青内檐罩论文报道（新闻）,卫常青等在npj Heritage Science发表基于可控人工智能的清代内檐罩,非学术来源_不建议引用,#新闻 #内檐罩,未获取,,https://www.hagis.cn/learning/show-41163.aspx,非学术来源
+23,生成式AI赋能上海革命文化遗产,Generative AI for Cultural Heritage: Shanghai Revolutionary ... - MDPI,文化遗产AIGC重建,#上海 #革命遗产 #MDPI,已下载,23,https://www.mdpi.com/2076-3417/16/9/4427,MDPI下载中
+24,npj Heritage Science期刊主页,npj Heritage Science - ResearchGate,非学术来源_不建议引用,#期刊主页 #ResearchGate,未获取,,https://www.researchgate.net/journal/npj-Heritage-Science-2050-7445,非学术来源
+25,知识图谱引导的文化真实扩散生成,Knowledge-graph-guided diffusion for culturally authentic ... - PubMed,文化遗产AIGC重建,#知识图谱 #扩散模型 #文化真实性,已下载,25,https://pubmed.ncbi.nlm.nih.gov/42259825/,MDPI下载中
+26,ResearchGate部署平台性能图表页,Performance Across Deployment Platforms - ResearchGate,非学术来源_不建议引用,#ResearchGate #图表页,未获取,,https://www.researchgate.net/figure/Performance-Across-Deployment-Platforms,非学术来源
+27,文化遗产修复图像分析技术,Image Analysis Techniques for Cultural Heritage Restoration,评价方法与指标体系,#图像分析 #文物修复 #Eusipco2012,未获取,,https://www.eurasip.org/Proceedings/Eusipco/Eusipco2012/Conference/papers/1,2012年老文献，未获取
+28,YOLO-WSR：小波特征引导的扩散模型,YOLO-WSR: A wavelet feature and structure guided diffusion model,文化遗产AIGC重建,#YOLO #小波 #扩散模型 #文物,已下载,28,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351571,PLOS ONE，已下载；28与29同一论文
+29,YOLO-WSR（PubMed版，同28）,YOLO-WSR: A wavelet feature and structure guided diffusion model,文化遗产AIGC重建,#YOLO #小波 #扩散模型,未获取,,https://pubmed.ncbi.nlm.nih.gov/42726815/,与28同一论文，已去重
+30,VaseVQA-3D：3D视觉语言模型陶器基准,VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery,文化理解评测基准,#VaseVQA-3D #3D-VLM #古希腊陶器 #基准,已下载,30,https://arxiv.org/html/2510.04479v2,arXiv已下载；文化轨评价模板
+31,BLEnD-Vis：多模态文化理解基准,BLEnD-Vis: Benchmarking Multimodal Cultural Understanding in,文化理解评测基准,#BLEnD-Vis #多模态 #文化理解 #EACL2026,已下载,31,https://aclanthology.org/2026.eacl-long.215.pdf,ACL已下载
+32,虚拟展览研究聚合页,Virtual Exhibitions of Cultural Heritage: Research ... - Researcher.Life,非学术来源_不建议引用,#聚合页 #虚拟展览,未获取,,https://artefacts-discovery.researcher.life/full_text/DA-2/d3/d39fa0f11dc73aa6a118,非论文聚合页，未获取
+33,ATHRIAN框架：遗产数字化与可持续,"Integrating Cultural Heritage, Digital Innovation and Sustainability",文化遗产AIGC重建,#ATHRIAN #可持续 #ResearchGate,未获取,,https://www.researchgate.net/publication/414912974_The_ATHRIAN_Framework_I,ResearchGate未获取
+34,多语言文化 grounded 生成模型评价,Multilingual Cultural-Grounded Evaluation of Generative AI Models,文化理解评测基准,#多语言 #文化 grounded #生成模型评价,未获取,,https://ieeexplore.ieee.org/document/11393305/,IEEE付费墙；开放版错配已移除
+35,Culture x AI：作为文化技术的AI评价,Culture x AI: Evaluating AI as a Cultural Technology - ICML 2026,文化理解评测基准,#ICML2026 #文化技术 #workshop,未获取,,https://icml.cc/virtual/2026/workshop/54085,workshop页；开放版错配已移除
+36,CARB：文化奖励模型基准,CARB: Cultural Reward Model Benchmark - Emergent Mind,评价方法与指标体系,#CARB #文化奖励模型 #基准,未获取,,https://www.emergentmind.com/topics/cultural-awareness-reward-modeling-be,Emergent Mind博客页，未获取论文
+37,Deconstructing Bias：诊断生成模型偏见的多面框架,Deconstructing Bias: A Multifaceted Framework for Diagnosing,评价方法与指标体系,#偏见诊断 #ICLR2025 #合成数据,已下载,37,https://openreview.net/forum?id=SBFA8My08u,OpenReview已下载
+38,Beyond Benchmarks讲座预告页,Beyond Benchmarks: Human-Aligned Evaluation Frameworks for,非学术来源_不建议引用,#讲座预告 #UMich,未获取,,https://eecs.engin.umich.edu/event/beyond-benchmarks-human-aligned-evaluati,非学术来源
+39,视频生成模型的文化保真度评价,Evaluating Cultural Faithfulness in Video Generation Models - arXiv,文化理解评测基准,#CultureScore #视频生成 #文化保真度,已下载,39,https://arxiv.org/html/2606.07311v3,arXiv已下载；与本课题高度相关
+40,程序化内容生成基准,The Procedural Content Generation Benchmark - arXiv,游戏资产AIGC生成,#PCG #基准 #arXiv,已下载,40,https://arxiv.org/html/2503.21474v1,arXiv已下载；40与43同一论文
+41,游戏资产生成的深度学习综述（Scribd）,Deep Learning for Game Asset Generation | PDF - Scribd,非学术来源_不建议引用,#Scribd #付费墙,未获取,,https://www.scribd.com/document/902567192/Image-based-Video-Game-Asset-,Scribd付费墙
+42,用GAN自动生成游戏图形资产,Automatic generation of graphical game assets using GAN,游戏资产AIGC生成,#GAN #游戏资产 #ITM,未获取,,https://www.semanticscholar.org/paper/Automatic-generation-of-graphical-gam,ITM会议，403未获取
+43,游戏生成挑战开源测试床（同40）,An Open-source Testbed for Generative Challenges in Games - arXiv,游戏资产AIGC生成,#PCG #测试床 #arXiv,未获取,,https://arxiv.org/pdf/2503.21474?,与40同一论文，已去重
+44,AIGCOIQA2024：AI生成图像感知质量评价,AIGCOIQA2024: Perceptual Quality Assessment of AI Generated,游戏就绪度与质量评价,#AIGCOIQA #IQA #感知质量 #基准,已下载,44,https://arxiv.org/html/2404.01024v1,arXiv已下载；评价方法直接相关
+45,OPIS：多对象记忆输入 grounded 基准,OPIS: An Input-Grounded Benchmark for Multi-Object Memory in,文化理解评测基准,#OPIS #多对象记忆 #基准,已下载,45,https://arxiv.org/html/2609.35052v1,arXiv已下载
+46,LifeAfter：AIGC手游美术范式变革（GDC演讲）,'LifeAfter': AIGC Paradigm Change in Mobile Game Art Production,非学术来源_不建议引用,#GDC #视频 #LifeAfter,未获取,,https://gdcvault.com/play/1035743/-LifeAfter-AIGC-Paradigm-Change,视频非论文；行业实践参考
+47,Orak：训练评测LLM智能体的基础基准,Orak: A Foundational Benchmark for Training and Evaluating LLM,游戏资产AIGC生成,#Orak #LLM智能体 #游戏 #基准,已下载,47,https://arxiv.org/html/2506.03610v1,arXiv已下载
+48,小模型高质量生成动态游戏内容,High-quality generation of dynamic game content via small ... - arXiv,游戏资产AIGC生成,#动态内容 #小模型 #游戏,已下载,48,https://arxiv.org/html/2601.23206v1,arXiv已下载
+49,生成式AI如何塑造设计师的遗产活化观,How generative AI shapes designers' cultural heritage revitalization,用户研究与社会影响,#设计师 #遗产活化 #Frontiers,已下载,49,https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1904,Frontiers已下载
+50,基于可持续的AIGC应用与价值评价,Application and Value Evaluation of AIGC Based on Sustainable,文创设计应用,#可持续 #价值评价 #SHS,未获取,,https://www.shs-conferences.org/articles/shsconf/pdf/2025/04/shsconf_messd20,SHS会议，403未获取
+51,面向创意的文化化生成式AI,Toward Culturalized Generative AI for the Creative ... - Preprints.org,文创设计应用,#文化化 #生成式AI #创意,未获取,,https://www.preprints.org/manuscript/202609.0484,Preprints；开放版错配已移除
+52,AIGC时代短视频剪辑范式转型（地方媒体）,AIGC时代短视频剪辑的范式转型与伦理困境,非学术来源_不建议引用,#新闻 #短视频剪辑,未获取,,https://www.lnrbxmt.com/news_details.html?id=593217,非学术来源
+53,什么是AIGC（AWS营销页）,什么是AIGC - AI 生成内容 - AWS,非学术来源_不建议引用,#营销页 #AWS,未获取,,https://aws.amazon.com/cn/what-is/aigc/,非学术来源
+54,AIGC工具对社会动态与用户体验的影响,Exploring the Impact of Artificial Intelligence-Generated Content,用户研究与社会影响,#DIS2024 #社会动态 #UX,已下载,54,https://www.mingmingfan.com/papers/DIS24_AIGC_Social_Dynamics_UX.pdf,DIS2024，已下载
+55,全球城市群文化产业指数报告（新闻）,全球重要城市群文化产业发展哪家强？上海社科院发布指数报告,非学术来源_不建议引用,#新闻 #上海社科院,未获取,,https://www.jfdaily.com/wx/detail.do?id=1145429,非学术来源
+56,中华优秀传统文化数字化内容用户接受研究,中华优秀传统文化数字化内容的用户接受与使用行为研究 - Schole Press,用户研究与社会影响,#用户接受 #UTAUT #传统文化,已下载,56,https://www.scholepress.hk/journal/jas/display/21/jas-00008.pdf,Schole Press，已下载
+57,学生对AIGC反馈态度量表,Scale for students' attitude towards AIGC feedback in english ... - PMC,用户研究与社会影响,#量表 #AIGC反馈 #英语教学,未获取,,https://pmc.ncbi.nlm.nih.gov/articles/PMC12551826/,PMC号无效，未获取
+58,生成式AI助力严肃游戏开发,Supporting Serious Game Development with Generative Artificial,严肃游戏与游戏化,#严肃游戏 #生成式AI #MDPI,已下载,58,https://www.mdpi.com/2076-3417/15/21/11606,MDPI下载中
+59,从壁画到元数据（AMT-Lab博客）,From Murals to Metadata: Digitizing Cultural Heritage in the Tech Age,非学术来源_不建议引用,#博客 #AMT-Lab,未获取,,https://amt-lab.org/blog/2025/3/digitizing-chinas-cultural-heritage-technology-dr,非学术来源
+60,数智赋能高质量发展（期刊页）,Digital and Intelligence Empowerment for High-Quality Development,非学术来源_不建议引用,#期刊页 #科技智库,未获取,,https://eng.kjqbyj.com/cgi/viewcontent.cgi?article=1247&context=journal,未获取有效文献
+61,AIGC赋能智慧教学设计,aigc-enabled smart instructional design for ... - Semantic Scholar,文创设计应用,#教学设计 #AIGC,未获取,,https://pdfs.semanticscholar.org/ae2c/007694f2609ab5fd9642c697ea52f052908f.,开放版错配已移除
+9,LoRA微调潜在扩散实现蒙古经典纹样高保真数字化,LoRA-Fine-Tuned Latent Diffusion for High-Fidelity Digitization of,文化遗产AIGC重建,#LoRA #蒙古纹样 #高保真数字化,已下载,9,https://www.mdpi.com/2076-3417/16/1/11,MDPI下载中
+C1,开平碉楼AIGC风格化与游戏化活化框架,An AIGC-Powered Framework for Stylized and Gamified Cultural,严肃游戏与游戏化,#AIGC #游戏化 #开平碉楼 #风格化重建,未获取,,https://www.mdpi.com/2075-5309/15/20/3782/pdf,核心锚点：报告方向一的直接先例；明确声明完整游戏化评估超出其范围
+C2,建筑遗产保护的生成式AI：专家引导特征编码,Generative AI for architectural heritage conservation: expert-guided,文化遗产AIGC重建,#生成式AI #建筑遗产 #专家引导 #T&F,未获取,,https://www.tandfonline.com/doi/full/10.1080/17538947.2026.2681387,T&F付费墙未获取；与方向二（空间纠偏）直接相关
+C3,酒馆场景AI生成3D资产的游戏就绪度评价,Evaluating AI-Generated 3D Assets for Game-Ready Environments,游戏就绪度与质量评价,#Text-to-3D #游戏就绪 #实证评价 #技术债,已下载,C3,https://ijhrsss.com/storage/articles/pdf/articles_20260630_095454.pdf,核心锚点：111.6倍面数膨胀；AI流程238min vs 人工716min
+C4,基于图像的游戏资产生成与评价系统综述,Image-Based Video Game Asset Generation and Evaluation Using,游戏就绪度与质量评价,#图像生成 #游戏资产 #系统综述 #IEEE-TG,未获取,,https://ieeexplore.ieee.org/iel8/7782673/11165227/10736668.pdf,IEEE Trans. Games付费墙未获取；投稿引言备选
+C5,倦勤斋清宫室内AIGC重建（ProQuest版）,A critical Artificial Intelligence-generated content ... - ProQuest,文化遗产AIGC重建,#倦勤斋 #清宫 #AIGC重建,未获取,,https://search.proquest.com/openview/05cd101a82728b2c157d1273a1d67ca7/1.pd,与#13同一论文，已用nature开放版替代
+C6,基于多维评价的遗产重释框架,A Multidimensional Evaluation-Based Reinterpretation of the ... - MDPI,评价方法与指标体系,#多维评价 #七曲山 #AHP-FCE #Heritage,已下载,C6,https://www.mdpi.com/2571-9408/8/7/250,MDPI下载中；评价方法论可借鉴
+C7,AI+AR助力中国剪纸活化,AI- and AR-Assisted Reactivation of Chinese Paper Cutting Using,严肃游戏与游戏化,#剪纸 #非遗 #AR #Heritage,已下载,C7,https://www.mdpi.com/2571-9408/9/4/150,MDPI下载中
+C8,AI生成徽州木雕图像的文化记忆符号学模型,(PDF) A cultural memory semiotics and function behavior structure,文创设计应用,#徽州木雕 #文化记忆 #符号学,未获取,,https://www.researchgate.net/publication/399841441_A_cultural_memory_semioti,ResearchGate未获取开放版
+C9,LoRA-Fine-Tuned Latent Diffusion for Hig,LoRA-Fine-Tuned Latent Diffusion for High-Fidelity Digitization of,评价方法与指标体系,#待定,未获取,,https://www.mdpi.com/2076-3417/16/1/11,
