@@ -61,3 +61,14 @@ C6,基于多维评价的遗产重释框架,A Multidimensional Evaluation-Based R
 C7,AI+AR助力中国剪纸活化,AI- and AR-Assisted Reactivation of Chinese Paper Cutting Using,严肃游戏与游戏化,#剪纸 #非遗 #AR #Heritage,已下载,C7,https://www.mdpi.com/2571-9408/9/4/150,MDPI下载中
 C8,AI生成徽州木雕图像的文化记忆符号学模型,(PDF) A cultural memory semiotics and function behavior structure,文创设计应用,#徽州木雕 #文化记忆 #符号学,未获取,,https://www.researchgate.net/publication/399841441_A_cultural_memory_semioti,ResearchGate未获取开放版
 C9,LoRA-Fine-Tuned Latent Diffusion for Hig,LoRA-Fine-Tuned Latent Diffusion for High-Fidelity Digitization of,评价方法与指标体系,#待定,未获取,,https://www.mdpi.com/2076-3417/16/1/11,
+62,结构-语义双感知网格简化方法,Structure- and Semantics-Aware Mesh Simplification for Generating Lightweight 3D Building Models,游戏就绪度与质量评价,#网格简化 #结构语义 #轻量化 #Remote-Sensing,未获取,,https://doi.org/10.3390/rs18060914,MDPI开放获取；与语义—拓扑双轨评估直接相关，最高优先级对标
+63,深度学习保显著特征网格简化算法,A Deep Learning-Based Salient Feature-Preserving Algorithm for Mesh Simplification,游戏就绪度与质量评价,#网格简化 #显著特征保持 #SFSP-QEM #CMC,未获取,,https://doi.org/10.32604/cmc.2025.060260,含自贡彩灯模型实测；工程侧硬核邻居
+64,网格简化几何精度信息熵评估,Evaluating Entropy of Geometric Accuracy in 3D Objects During Mesh Simplification,游戏就绪度与质量评价,#网格简化 #几何精度 #信息熵 #评价方法,未获取,,https://doi.org/10.2352/J.ImagingSci.Technol.2024.68.4.040404,提供几何精度变化的直接评价依据
+65,基于二次误差度量的表面简化（QEM）,Surface Simplification Using Quadric Error Metrics,游戏就绪度与质量评价,#QEM #二次误差度量 #奠基算法 #SIGGRAPH1997,未获取,,https://doi.org/10.1145/258734.258849,网格简化奠基文献，标准基线对照算法
+66,三维网格显著性（Mesh Saliency）,Mesh Saliency,游戏就绪度与质量评价,#网格显著性 #视觉注意 #ACM-TOG2005,未获取,,https://doi.org/10.1145/1073204.1073244,经典文献；用于论证文化重要性≠几何显著性
+67,数字化遗产三维标准化综述,Standardization of digitized heritage: a review of implementations of 3D in cultural heritage,文化遗产AIGC重建,#3D标准化 #互操作性 #综述 #Heritage-Science,未获取,,https://doi.org/10.1186/s40494-023-01079-z,45个3D数字遗产项目的数据质量与互操作性综述，建议必读
+68,T³Bench：Text-to-3D生成评测基准,T3Bench: Benchmarking Current Progress in Text-to-3D Generation,游戏就绪度与质量评价,#T3Bench #Text-to-3D #评测基准 #预印本,未获取,,https://arxiv.org/abs/2310.02977,arXiv预印本，引用需标注；Text-to-3D通用生成质量与文本对齐基准
+69,西周青铜器（Sackler藏）,Western Zhou Ritual Bronzes from the Arthur M. Sackler Collections,文化遗产AIGC重建,#青铜器 #西周 #器型分类 #考古专著,未获取,,,权威考古专著（非AIGC）：西周礼器器型分类与文化特征证据体系；ISBN 9780674950704
+70,商代青铜器（Sackler藏）,Shang Ritual Bronzes in the Arthur M. Sackler Collections,文化遗产AIGC重建,#青铜器 #商代 #纹饰 #考古专著,未获取,,,权威考古专著（非AIGC）：商代礼器器型、兽面纹类别与块范铸造特征标注规则；ISBN 9780674805259
+71,《伦敦宪章》：文化遗产计算机可视化原则,The London Charter for the Computer-Based Visualisation of Cultural Heritage,文化遗产AIGC重建,#伦敦宪章 #可视化伦理 #Paradata #国际宪章,未获取,,https://www.londoncharter.org/,国际宪章：证据来源、过程记录与不确定性声明；AIGC推测性重建的方法论红线依据
+72,ISO 21127:2023 文化遗产信息参考本体,ISO 21127:2023 Information and documentation - A reference ontology for the interchange of cultural heritage information,文化遗产AIGC重建,#CIDOC-CRM #本体 #国际标准 #语义规范,未获取,,,国际标准：规范文物器型、年代、材质、纹饰、铭文、馆藏与证据等级的语义关系
