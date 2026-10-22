@@ -72,3 +72,8 @@ C9,LoRA-Fine-Tuned Latent Diffusion for Hig,LoRA-Fine-Tuned Latent Diffusion for
 70,商代青铜器（Sackler藏）,Shang Ritual Bronzes in the Arthur M. Sackler Collections,文化遗产AIGC重建,#青铜器 #商代 #纹饰 #考古专著,未获取,,,权威考古专著（非AIGC）：商代礼器器型、兽面纹类别与块范铸造特征标注规则；ISBN 9780674805259
 71,《伦敦宪章》：文化遗产计算机可视化原则,The London Charter for the Computer-Based Visualisation of Cultural Heritage,文化遗产AIGC重建,#伦敦宪章 #可视化伦理 #Paradata #国际宪章,未获取,,https://www.londoncharter.org/,国际宪章：证据来源、过程记录与不确定性声明；AIGC推测性重建的方法论红线依据
 72,ISO 21127:2023 文化遗产信息参考本体,ISO 21127:2023 Information and documentation - A reference ontology for the interchange of cultural heritage information,文化遗产AIGC重建,#CIDOC-CRM #本体 #国际标准 #语义规范,未获取,,,国际标准：规范文物器型、年代、材质、纹饰、铭文、馆藏与证据等级的语义关系
+73,渐进网格（Progressive Meshes）,Progressive Meshes,游戏就绪度与质量评价,#渐进网格 #多分辨率 #经典算法 #SIGGRAPH1996,未获取,,https://doi.org/10.1145/237170.237216,经典对照简化方法；多分辨率表示与渐进式简化的源头文献
+74,基于二次误差度量的颜色与纹理表面简化,Simplifying Surfaces with Color and Texture using Quadric Error Metrics,游戏就绪度与质量评价,#QEM #颜色纹理 #属性保持 #VIS1998,未获取,,https://doi.org/10.1109/visual.1998.745312,QEM向颜色与纹理属性的扩展；纹理视觉维度的方法依据（S2证据包M02已核实）
+75,Metro：简化曲面误差测量,Metro: Measuring Error on Simplified Surfaces,游戏就绪度与质量评价,#几何误差 #Hausdorff距离 #误差测量 #CGF1998,未获取,,https://doi.org/10.1111/1467-8659.00236,简化曲面几何误差测量的标准工具；几何误差维度的方法出处
+76,MESH：基于Hausdorff距离的曲面误差测量,MESH: Measuring Errors between Surfaces using the Hausdorff Distance,游戏就绪度与质量评价,#Hausdorff距离 #误差测量 #ICME2002,未获取,,https://doi.org/10.1109/icme.2002.1035879,Hausdorff距离误差测量的标准方法；铭文笔画几何误差指标的直接依据
+77,三角网格感知质量指标综述,Perceptual Metrics for Static and Dynamic Triangle Meshes,游戏就绪度与质量评价,#感知指标 #质量评价 #综述 #CGF2013,未获取,,https://doi.org/10.1111/cgf.12001,网格感知质量指标综述；感知维度信效度论证的参照
